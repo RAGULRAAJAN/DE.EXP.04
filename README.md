@@ -28,11 +28,11 @@ Diff = A ⊕ B ⊕ Bin B = A'Bin + A'B + BBin
 ## Procedure
 Write the detailed procedure here 
 ## Program:
-/*
+
 Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
 Developed by: RAGUL RAAJAN .T
 RegisterNumber:23007752  
-*/
+
 
 ## CODE:
  ### HALF SUBRACTOR:
@@ -43,17 +43,17 @@ RegisterNumber:23007752
 
 ## Truthtable
  ### HALF SUBRACTOR:
-![Screenshot 2023-12-23 055413](https://github.com/RAGULRAAJAN/DE.EXP.04/assets/147473144/fda740e3-bba2-4edf-a965-60489e0f6ddb)
-
+![Screenshot 2023-12-27 103327](https://github.com/RAGULRAAJAN/DE.EXP.04/assets/147473144/bd957f29-b93b-4403-b12f-30e498d9e30c)
  ### FULL SUBRACTOR:
- ![Screenshot 2023-12-23 055516](https://github.com/RAGULRAAJAN/DE.EXP.04/assets/147473144/9b5ae100-6881-4887-b24c-3f86e6594596)
+ ![Screenshot 2023-12-27 103336](https://github.com/RAGULRAAJAN/DE.EXP.04/assets/147473144/bf87f482-0974-44f9-99d8-dcaa3ea1c46c)
 
 ##  RTL DIAGRAM:
 ### HALF SUBRACTOR:
 ![Screenshot 2023-12-23 055737](https://github.com/RAGULRAAJAN/DE.EXP.04/assets/147473144/7f3607ce-a920-4339-8aa2-f9b31f4bf83a)
 
  ### FULL SUBRACTOR:
- ![Screenshot 2023-12-23 055757](https://github.com/RAGULRAAJAN/DE.EXP.04/assets/147473144/c4acb5e2-f315-4194-9c16-cec54060af08)
+ ![Screenshot 2023-12-27 103355](https://github.com/RAGULRAAJAN/DE.EXP.04/assets/147473144/a23a14be-15e7-456c-ab54-7eb517aa18dc)
+
 
 ## Timing diagram 
 ### HALF SUBRACTOR:
